@@ -4,7 +4,7 @@ include('./includes/header.inc.php');
 ?>
 <div class="container">
   <section>
-    <h2>Welcome to Identity Theft</h2>
+    <h2>Identity Theft Conference – Nov. 10-11, 2017</h2>
     <p>“But you are a chosen generation, a royal priesthood, a holy nation, a peculiar people;
       that ye shew forth the praises of Him who hath called you out of darkness into His marvelous light.”
       1 Peter 2:9, KJV

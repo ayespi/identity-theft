@@ -11,7 +11,7 @@ include('./includes/header.inc.php');
         <li>Conference fees
           <ul>
             <li>$55 - Adults</li>
-            <li>$35 - Young ladies ages 12 and above, who has yet to graduate high school.</li>
+            <li>$35 - Young ladies ages 12 and above, who have yet to graduate high school.</li>
           </ul>
         </li>
       </ul>
